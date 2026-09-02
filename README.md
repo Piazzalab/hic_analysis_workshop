@@ -340,6 +340,8 @@ OPENBLAS_NUM_THREADS=1 systemd-run \
 ## Google Colab
 
 If installing the conda environment is not possible, the notebooks can be opened in Google colab, 
-with provided data download links to fetch the course data.
+and the data required for the course will be provided through download links.
 
 The first part (`reads_to_hic.sh`) is not set up to work on the Google runtime environment, and will be done by the teacher.
+
+To start, go to (https://colab.research.google.com/github/Piazzalab/hic_analysis_workshop/).
