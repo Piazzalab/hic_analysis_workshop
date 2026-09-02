@@ -205,8 +205,8 @@ Requirements:
 - Computing power: \~3.5 Gb RAM, 100\% CPU 
 - Computing time: 10 min \*
 
-\*: The time is super long because I had to set the nb of cores used by serpentine to 1 to have it run. 
-This might be because its parallelization handling is incompatible with my resource-limiting command so it might run faster for the workshop.
+\*: The time might be long because I had to set the nb of cores used by serpentine to 1 to have it run 
+(parallelization handling is incompatible with my resource-limiting command so it might run faster for the workshop). 
 
 
 ```sh
