@@ -1,0 +1,29 @@
+name: mini_hicws
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bowtie2=2.5.4=he96a11b_7
+  - cooler=0.10.3=pyhdfd78af_0
+  - cooltools=0.7.1=py312hc9302aa_3
+  - cpython=3.12.12=py312hd8ed1ab_1
+  - dask=2024.8.0=pyhd8ed1ab_0
+  - hicstuff=3.2.4=pyhdfd78af_0
+  - h5py=3.15.1=nompi_py312ha4f8f14_101
+  - hdf5=1.14.6=nompi_h1b119a7_104
+  - libcurl=8.17.0=h4e3cde8_0
+  - minimap2=2.30=h577a1d6_0
+  - numpy=1.26.4=py312heda63a1_0
+  - pandas=2.2.3=py312hf9745cd_3
+  - pip=25.2=pyh8b19718_0
+  - python=3.12.12=hd63d673_1_cpython
+  - samtools=1.22.1=h96c455f_0
+  - scipy=1.15.1=py312h180e4f1_0
+  - seaborn=0.13.2=hd8ed1ab_3
+  - urllib3=2.5.0=pyhd8ed1ab_0
+  - jupyterlab=4.4.6=pyhd8ed1ab_0
+  - pip:
+    - biopython==1.83
+    - parasplit==1.1.5
+    - serpentine==0.1.3
+
