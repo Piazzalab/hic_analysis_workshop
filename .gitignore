@@ -1,1 +1,3 @@
 *.ipynb_checkpoints*
+notebooks_and_scripts/hic_data*
+notebooks_and_scripts/outputs*
